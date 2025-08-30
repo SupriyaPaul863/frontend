@@ -36,7 +36,7 @@ frontend/welcome-dashboard/
 
 ## Run locally
 
-1. Open the `frontend/welcome-dashboard`.
+1. Open the `frontend-main/welcome-dashboard`.
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
 4. Open the URL shown in the terminal (usually `http://localhost:5173`).
